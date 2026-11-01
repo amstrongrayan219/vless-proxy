@@ -1,1 +1,4 @@
-ligne main = "index.js"
+name = "vless-proxy2"
+main = "index.js"
+compatibility_date = "2026-01-01"
+
