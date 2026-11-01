@@ -33,4 +33,5 @@ function handleSession(webSocket, userID) {
   webSocket.addEventListener('close', () => {
     if (remoteSocket) remoteSocket.close();
   });
-    }
+}
+  
